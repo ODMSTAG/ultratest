@@ -1,0 +1,23 @@
+{
+  "colorPalette": false,
+  "frameRateLimit": 3,
+  "simpleNailPhysics": true,
+  "bloodStainChance": 0.5,
+  "vSync": true,
+  "resolutionWidth": 1920,
+  "resolutionHeight": 1080,
+  "fullscreen": true,
+  "cyberGrind.customGrid_0": "C:\\Users\\hollo\\Desktop\\files\\ultrakill\\ULTRAKILL\\CyberGrind\\Textures\\Glows\\disco2emission.png",
+  "cyberGrind.customGrid_1": "C:\\Users\\hollo\\Desktop\\files\\ultrakill\\ULTRAKILL\\CyberGrind\\Textures\\Glows\\disco2emission.png",
+  "cyberGrind.customGrid_2": "C:\\Users\\hollo\\Desktop\\files\\ultrakill\\ULTRAKILL\\CyberGrind\\Textures\\Glows\\disco2emission.png",
+  "cyberGrind.customGlow_0": "C:\\Users\\hollo\\Desktop\\files\\ultrakill\\ULTRAKILL\\CyberGrind\\Textures\\a-vr-blue.png",
+  "cyberGrind.customGlow_1": "C:\\Users\\hollo\\Desktop\\files\\ultrakill\\ULTRAKILL\\CyberGrind\\Textures\\a-vr-blue.png",
+  "cyberGrind.customGlow_2": "C:\\Users\\hollo\\Desktop\\files\\ultrakill\\ULTRAKILL\\CyberGrind\\Textures\\a-vr-blue.png",
+  "cyberGrind.customSkybox": "C:\\Users\\hollo\\Desktop\\files\\ultrakill\\ULTRAKILL\\CyberGrind\\Textures\\Skyboxes\\planet6.png",
+  "cyberGrind.glowIntensity": 10.0,
+  "disableEnvironmentParticles": true,
+  "simpleSpawns": true,
+  "simpleFire": true,
+  "simpleExplosions": true,
+  "maxGore": 1000.0
+}
